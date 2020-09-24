@@ -1,0 +1,5 @@
+ignorethis.txt
+.DS_Store
+
+# DS_Store for local file storage config
+# can use wildcard * etc.
